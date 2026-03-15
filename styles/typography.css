@@ -1,0 +1,25 @@
+h1{
+font-size:40px;
+}
+
+h2{
+font-size:30px;
+color:#333;
+}
+
+p{
+font-size:18px;
+line-height:1.6;
+}
+
+.text-center{
+text-align:center;
+}
+
+.uppercase{
+text-transform:uppercase;
+}
+
+.shadow-text{
+text-shadow:2px 2px 5px gray;
+}

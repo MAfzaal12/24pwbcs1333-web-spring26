@@ -1,0 +1,13 @@
+.card:hover{
+transform:scale(1.05);
+transition:0.3s;
+}
+
+img{
+transition:0.3s;
+}
+
+img:hover{
+filter:brightness(120%);
+transform:scale(1.1);
+}
